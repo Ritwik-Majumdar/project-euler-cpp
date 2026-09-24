@@ -1,10 +1,10 @@
 # Project Euler in C++
 
-This repository is for my C++ solutions to selected [Project Euler](https://projecteuler.net/) problems. I add a solution after reviewing the code and being able to explain the approach.
+This repository is for my C++ solutions and short explanations for selected [Project Euler](https://projecteuler.net/) problems. I add a solution after reviewing the code and being able to explain the approach.
 
 ## Organization
 
-Solutions go in `solutions/`, named `p001.cpp`, `p002.cpp`, and so on. Each file can be compiled and run on its own.
+Solutions go in `solutions/`, named `p001.cpp`, `p002.cpp`, and so on. Each file can be compiled and run on its own. I include comments or notes describing the method, rather than only a final answer.
 
 For example, from the repository root:
 
@@ -17,4 +17,4 @@ Replace `p001` with the number of the solution you want to run. On Linux, `g++` 
 
 ## Publishing scope
 
-I publish only solutions to problems 1–100, in line with Project Euler's sharing policy. Solutions to later problems stay private. I do not reproduce the full problem statements here.
+Only problems 1–100 are candidates for this public repository. Solutions to later problems stay private. I do not reproduce the full problem statements here.
